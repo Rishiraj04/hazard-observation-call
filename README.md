@@ -78,7 +78,7 @@ Designed for enterprise environments to:
 
 ---
 
-## 📄 Disclaimer
+##  Disclaimer
 
 Developed as part of an internship initiative.  
 All confidential or proprietary information has been removed.
