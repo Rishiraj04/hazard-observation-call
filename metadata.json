@@ -1,0 +1,7 @@
+{
+  "name": "Hazard Observation Call (HOC)",
+  "description": "A workplace safety management system for reporting and tracking hazards with user and admin modules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
